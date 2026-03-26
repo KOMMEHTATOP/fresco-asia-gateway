@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Welcome to your Fresco-asia-gateway project
 
 TODO: Document your project here
