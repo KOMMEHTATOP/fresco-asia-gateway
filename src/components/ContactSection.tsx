@@ -30,7 +30,7 @@ const ContactSection = () => (
             Contact via Telegram
           </a>
           <a
-            href="mailto:Frescopartnertns@outlook.com"
+            href="mailto:Frescopartnerts@outlook.com"
             className="inline-flex items-center justify-center gap-2 px-8 py-3.5 rounded-xl bg-muted text-foreground font-semibold text-sm border border-border hover:border-primary/30 transition-all"
           >
             <Mail className="w-4 h-4" />
@@ -40,7 +40,7 @@ const ContactSection = () => (
 
         <div className="mt-8">
           <a
-            href="mailto:Frescopartnertns@outlook.com"
+            href="mailto:Frescopartnerts@outlook.com"
             className="inline-flex items-center justify-center gap-2 px-10 py-4 rounded-xl bg-gradient-cta text-primary-foreground font-bold text-base hover:opacity-90 transition-all glow-primary"
           >
             Contact Sales

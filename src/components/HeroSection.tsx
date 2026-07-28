@@ -45,13 +45,13 @@ const HeroSection = () => {
 
             <div className="flex flex-wrap gap-4">
               <a
-                href="mailto:Frescopartnertns@outlook.com"
+                href="mailto:Frescopartnerts@outlook.com"
                 className="inline-flex items-center px-8 py-3.5 rounded-xl bg-muted text-foreground font-semibold text-sm hover:bg-muted/80 transition-all border border-border"
               >
                 Get Started
               </a>
               <a
-                href="mailto:Frescopartnertns@outlook.com"
+                href="mailto:Frescopartnerts@outlook.com"
                 className="inline-flex items-center px-8 py-3.5 rounded-xl bg-gradient-cta text-primary-foreground font-semibold text-sm transition-all hover:opacity-90 glow-primary"
               >
                 Contact Sales

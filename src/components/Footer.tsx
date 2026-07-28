@@ -11,7 +11,7 @@ const Footer = () => (
         <div className="flex gap-6 text-sm text-muted-foreground">
           <Link to="/documentation" className="hover:text-foreground transition-colors">Documentation</Link>
           <a href="https://t.me/payforhr" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">Telegram</a>
-          <a href="mailto:Frescopartnertns@outlook.com" className="hover:text-foreground transition-colors">Email</a>
+          <a href="mailto:Frescopartnerts@outlook.com" className="hover:text-foreground transition-colors">Email</a>
         </div>
       </div>
       <div className="text-center text-xs text-muted-foreground mt-8 pt-6 border-t border-border/30">

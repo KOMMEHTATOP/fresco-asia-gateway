@@ -68,13 +68,13 @@ const Header = () => {
             {lang}
           </button>
           <a
-            href="mailto:Frescopartnertns@outlook.com"
+            href="mailto:Frescopartnerts@outlook.com"
             className="text-sm font-medium px-4 py-2 rounded-lg bg-muted hover:bg-muted/80 text-foreground transition-all"
           >
             Get Started
           </a>
           <a
-            href="mailto:Frescopartnertns@outlook.com"
+            href="mailto:Frescopartnerts@outlook.com"
             className="text-sm font-semibold px-4 py-2 rounded-lg bg-gradient-cta text-primary-foreground transition-all hover:opacity-90 glow-primary"
           >
             Contact Sales
@@ -122,7 +122,7 @@ const Header = () => {
               ))}
               <div className="flex gap-2 pt-4 border-t border-border">
                 <a
-                  href="mailto:Frescopartnertns@outlook.com"
+                  href="mailto:Frescopartnerts@outlook.com"
                   className="flex-1 text-center text-sm font-semibold px-4 py-2.5 rounded-lg bg-gradient-cta text-primary-foreground"
                 >
                   Contact Sales
